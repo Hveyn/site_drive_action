@@ -385,11 +385,10 @@ button{
 
 .personal_card{
     width: 100%;
-    height: 716px;
 
     background-color: #20364B;
 
-    border-radius: 12px;
+    border-radius: 12px 12px 0px 0px;
 }
 
 .header_personal{
@@ -466,9 +465,8 @@ button{
 }
 
 .personal_slider{
-    position: absolute;
-    top: 96px;
-    left: 98px;
+    margin 0 auto;
+   
     width: 1308px;
     height: 618px;
 }
